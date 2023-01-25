@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Lyrics for Megha</string>
+//1
+    <string name="taylor">Taylor Swift</string>
+    <string name="daylight">Daylight</string>
+    <string name="daylight_lyric">I don\'t wanna think of anything  else now that I thought of you</string>
+//2
+    <string name="paleWaves">Pale Waves</string>
+    <string name="clean">Clean</string>
+    <string name="clean_lyric">You\'re the one drug that I don\'t want to get clean from</string>
+//3    
+    <string name="disguise">Disguise</string>
+    <string name="dayWave">Day Wave</string>
+    <string name="disguise_lyric">We\'re perfect in our eyes</string>
+//4
+    <string name="hotVenom">Hot Venom</string>
+    <string name="miniTiger">Miniature Tigers</string>
+    <string name="hot_venom_lyric">It feels so good to fall in love with you</string>
+//5
+    <string name="valley">Valley</string>
+    <string name="oh_shit">Oh shit...are we in love?</string>
+    <string name="oh_shit_lyric">You\'re my favorite\nI only fell when I gave up</string>
+//6
+    <string name="secondBest">Second Best</string>
+    <string name="youngerHunger">Younger Hunger</string>
+    <string name="secondBest_lyric">I don\'t wanna be your second best\nI wanna be your only one</string>
+//7    
+    <string name="harry">Harry Styles</string>
+    <string name="lateNight">Late Night Talking</string>
+    <string name="lateNight_lyric">If you\'re feeling down\nI just wanna make you happier, baby</string>
+//8
+    <string name="lauv">Lauv</string>
+    <string name="all4nothing">All 4 Nothing (I\'m So In Love)</string>
+    <string name="all4_lyric">I\'m so in love, I\'m so in love\nI don\'t ever wanna stop this ride that we\'re on</string>
+//9
+    <string name="bandCamino">The Band CAMINO</string>
+    <string name="iThinkILikeYou">I Think I Like You</string>
+    <string name="iThink_lyric">You do me better than any other love could\nHurts like heaven and it feels so, feels so good</string>
+//10    
+    <string name="winona">Winona Oak</string>
+    <string name="letMeKnow">Let Me Know</string>
+    <string name="lmk_lyric">If the world is falling down, You\'re the one I\'m holding\nDon\'t let go</string>
+//11    
+    <string name="magnolian">Magnolian</string>
+    <string name="indigo">Indigo</string>
+    <string name="indigo_lyric">I\'m indigo and violet and blue\nI\'m so in love with you</string>
+//12
+    <string name="easy">Easy</string>
+    <string name="easy_lyric">You changed something inside me\mI\'m not who I used to be\nLoving you, loving you is easy</string>
+//13    
+    <string name="gracieAbrams">Gracie Abrams</string>
+    <string name="feelsLike">Feels Like</string>
+    <string name="feelsLike_lyric">Met you at the right time\nThis is what it feels like</string>
+//14    
+    <string name="sleepingAtLast">Sleeping At Last</string>
+    <string name="two">Two</string>
+    <string name="two_lyric">I will love you without a single string attached</string>
+//15
+    <string name="millenialClub">The Millenial Club</string>
+    <string name="mi">MI</string>
+    <string name="mi_lyric">And the point is girl, that I\'ve got you now\nSo if you let me keep loving you, I\'ll show you how</string>
+//16
+    <string name="purityRing">Purity Ring</string>
+    <string name="fineshrine">fineshrine</string>
+    <string name="fineshrine_lyric">Cut open my sternum and pull, My little ribs around you</string>
+//17
+    <string name="iDontKnowHow">I DON\'T KNOW HOW BUT THEY FOUND ME</string>
+    <string name="kissGoodnight">Kiss Goodnight</string>
+    <string name="kissGoodnight_lyric">I hope we kiss goodnight\nIt might just end my life</string>
+//18    
+    <string name="lightboys">Lightboys</string>
+    <string name="niceDay">Nice Day</string>
+    <string name="niceDay_lyric">Breathin\' your grace, got me feelin\' some kina way, way</string>
+//19    
+    <string name="sirSly">Sir Sly</string>
+    <string name="honey">Honey</string>
+    <string name="honey_lyric">I want you on my tongue like a little bit of honey</string>
+//20    
+    <string name="coastModern">Coast Modern</string>
+    <string name="guru">Guru</string>
+    <string name="guru_lyric">We\'re miles apart, but not at heart, my guru</string>
+//21    
+    <string name="cadenceKid">Cadence Kid</string>
+    <string name="holdOnMe">Hold on Me</string>
+    <string name="holdOnMe_lyric">You\'ve been on my mind all the time, obsessively</string>
+//22
+    <string name="leithRoss">Leith Ross</string>
+    <string name="wellNeverHaveSex">We\'ll Never Have Sex</string>
+    <string name="wellNever_lyric">You look perfect, you look different, I don\'t wonder about your indifference</string>
+//23
+    <string name="broods">BROODS</string>
+    <string name="heartlines">Heartlines</string>
+    <string name="heartlines_lyric">We only get the one life\nAnd I wanna feel your heartlines</string>
+//24
+    <string name="jaymesYoung">Jaymes Young</string>
+    <string name="stone">Stone</string>
+    <string name="stone_lyric">Put all your weight on me\nAnd I\'ll be the stone that you need me to be</string>
+//25    
+    <string name="auGres">Au Gres</string>
+    <string name="nervous">Nervous</string>
+    <string name="nervous_lyric">You oughta know\nNothing about you makes me nervous\nI feel right at home</string>
+//26
+    <string name="bleachers">Bleachers</string>
+    <string name="wakeMe">Wake Me</string>
+    <string name="wakeMe_lyric">I can\'t believe I captured your heart</string>
+//27
+    <string name="cigarettesAfterSex">Cigarettes After Sex</string>
+    <string name="nothingsGonnaHurtYou">Nothing\'s Gonna Hurt You Baby</string>
+    <string name="nothingsGonna_lyric">As long as you\'re with me you\'ll be just fine\nNothing\'s gonna hurt you baby</string>
+//28    
+    <string name="the1975">The 1975</string>
+    <string name="fallingforyou">Fallingforyou</string>
+    <string name="fallingforyou_lyric">And on this night and in this light\nI think I\'m falling, I\'m falling for you</string>
+//29
+    <string name="sakima">SAKIMA</string>
+    <string name="letTheRightOneIn">Let the Right One In</string>
+    <string name="letTheRight_lyric">I let her save me, take me under safety\nI let the right one in</string>
+//30
+    <string name="litany">Litany</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bedroom_lyric">If you wanna come to my bedroom\nI can be there if you want to</string>
+//31
+    <string name="heavenly">Heavenly</string>
+    <string name="heavenly_lyric">And when you\'re far away\nI still feel it all the same</string>
+
+//Other
+    <string name="expand_button_content_description">Show or hide lyrics for a song</string>
+</resources>
